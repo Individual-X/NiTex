@@ -25,10 +25,10 @@ As this architecture stacked with:
 
 ## Model Optimization
 
-# Reguralization
+### Reguralization
 I used Reguralization to calibrate model in order to minimize the adjusted loss function and prevent overfitting or underfitting.
 
-# Early stooping
+### Early stooping
 
 In this work to choose optimal number of epoch for saving computational time, resources and over or underfitting I used val_accuracy to observe the network learning pattern and stop when the model heading to take weird decision.
 
