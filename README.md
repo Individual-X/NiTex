@@ -10,7 +10,7 @@ Assesment for Nitex ML engineer.
 
 ## DataSet insight
 
-By analyzing the dataset I came across that the this is a Synthetic data set having equal distribution of all classes. 
+By analyzing the dataset I came across that the this is a Synthetic data set having equal distribution of all classes. There is no necessary for erplicate or eliminate data from the dataset. This is a plug and play dataset.
 
 ## Model  Selection
 
