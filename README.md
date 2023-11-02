@@ -23,7 +23,7 @@ As this architecture stacked with:
 5. Activation Functions
    
 
-## Model Selection 
+## Model Optimization
 
 # Reguralization
 I used Reguralization to calibrate model in order to minimize the adjusted loss function and prevent overfitting or underfitting.
@@ -34,4 +34,4 @@ In this work to choose optimal number of epoch for saving computational time, re
 
 ## Argument Instruction
 
-python evaluate_model.py --test-data "test.csv" if you want different test data to be tested run this command in the command line.
+python evaluate_model.py --test-data "test.csv" if you want different test different test dataset.
