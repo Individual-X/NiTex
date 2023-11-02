@@ -1,11 +1,11 @@
-# Pupose
+# Purpose of this repo.
 
 Assesment for Nitex ML engineer.
 
-## Installation
+## Run the model in virtual environment
 
-1. Clone the repository.
-2. Install required dependencies from `requirements.txt`.
+1. Clone this repository.
+2. Install dependencies from `requirements.txt`
 3. Run the evaluate_model.py to see the accuracy score on test data set.
 
 ## DataSet insight
